@@ -1,7 +1,10 @@
 # django-telegram-bot
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="350px" weight="350px">
+    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="200px" weight="350px">
+    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/stripe.png" align="center" height="150px" weight="350px">
+    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" align="center" height="150px" weight="350px">
+
 </p>
 
 ### Check the example bot that uses the code from Main branch: [BotMother](https://t.me/randombum_bot)
@@ -106,4 +109,4 @@ Being inside a container:
 python manage.py createsuperuser
 ```
 
-After that you can open admin panel of your deployed app which is located at https://<YOURDOMAIN.COM>/tgadmin.
+After that you can open admin panel of your deployed app which is located at https://<DOMAIN>/tgadmin.
