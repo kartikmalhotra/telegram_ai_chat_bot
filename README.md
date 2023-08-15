@@ -1,11 +1,10 @@
 # django-telegram-bot
 
 <p align="center">
-    <img src="https://www.google.com/search?q=django+image&sca_esv=557013633&ei=9xXbZIjXK8ju4-EPh--f4Aw&ved=0ahUKEwjIrszf_92AAxVI9zgGHYf3B8wQ4dUDCBA&uact=5&oq=django+image&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGRqYW5nbyBpbWFnZTIIEAAYigUYkQIyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIswhQaVjoB3ABeACQAQCYAZgBoAHLBqoBAzAuNrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgoQABiKBRiwAxhDwgIQEC4YigUYyAMYsAMYQ9gBAcICDRAuGIMBGLEDGIoFGEPCAgoQABiKBRixAxhDwgINEAAYigUYsQMYgwEYQ8ICCBAAGIAEGLEDwgINEC4YigUYsQMYgwEYQ8ICCxAAGIAEGLEDGIMBwgIcEC4YgwEYsQMYigUYQxiXBRjcBBjeBBjgBNgBAuIDBBgAIEGIBgGQBhG6BgYIARABGAi6BgYIAhABGBQ&sclient=gws-wiz-serp#vhid=reo1sW4lfrSJyM&vssid=l" align="center" height="350px" weight="350px">
-</p>
+    <img src="https://github.com/kartikmalhotra/telegram_ai_chat_bot/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="350px" weight="350px">
 
-<p align="center">
-    <img src="https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_US" align="center" height="350px" weight="350px">
+    <img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w480-h960" align="center" height="350px" weight="350px">
+
 </p>
 
 ### Check the example bot that uses the code from Main branch: [BotMother](https://t.me/randombum_bot)
@@ -38,9 +37,8 @@
 
 ## Content
 
-- [How to run locally](https://github.com/ohld/django-telegram-bot/#how-to-run)
-- [Deploy to production](https://github.com/ohld/django-telegram-bot/#deploy-to-production)
-- [Telegram webhook](https://github.com/ohld/django-telegram-bot/#https--telegram-bot-webhook)
+- [How to run locally](https://github.com/kartikmalhotra/telegram_ai_chat_bot/#how-to-run)
+- [Telegram webhook](https://github.com/ohld/django-telegram-bot/#setup_telegram_bot_api_webhook_url)
 
 # How to run
 
@@ -100,6 +98,7 @@ You need to tell Telegram servers where to send events of your Telegram bot. Jus
 
 ```
 https://api.telegram.org/bot<BotToken>/setWebhook?url=<DOMAIN_URL>/webhook/telegram?botid=<bot_id>
+
 ```
 
 ### Create Django super user
