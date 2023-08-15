@@ -1,10 +1,7 @@
 # django-telegram-bot
 
 <p align="center">
-    <img src="https://github.com/kartikmalhotra/telegram_ai_chat_bot/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="350px" weight="350px">
-
-    <img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w480-h960" align="center" height="350px" weight="350px">
-
+    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="350px" weight="350px">
 </p>
 
 ### Check the example bot that uses the code from Main branch: [BotMother](https://t.me/randombum_bot)
