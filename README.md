@@ -2,11 +2,6 @@
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="350px" weight="350px", width="100%">
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/stripe.png" alt="Image 1" width="50%" height="200px">
-        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" alt="Image 2" width="50%" height="200px">
-    </div>
-
 </p>
 
 ### Check the example bot that uses the code from Main branch: [BotMother](https://t.me/randombum_bot)
@@ -112,3 +107,7 @@ python manage.py createsuperuser
 ```
 
 After that you can open admin panel of your deployed app which is located at https://<DOMAIN>/tgadmin.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" align="center" height="350px" weight="350px", width="100%">
+</p>
