@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Payment Failed</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f6f9fc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  .container {
+    text-align: center;
+    padding: 2rem;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .icon {
+    color: #ff6347;
+    font-size: 5rem;
+  }
+  h1 {
+    margin-top: 1rem;
+    font-size: 2rem;
+    color: #333;
+  }
+  p {
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    color: #666;
+  }
+  .button {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.8rem 2.5rem;
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .button:hover {
+    background-color: #e74c3c;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="icon">&#10060;</div>
+    <h1>Payment Failed</h1>
+    <p>Unfortunately, your payment could not be processed at this time.</p>
+    <button class="button" onclick="redirectToChatbot()">Exit</button>
+  </div>
+
+  <script>
+    function redirectToChatbot() {
+      // Redirect the user back to the cart or checkout page
+      window.close()
+    }
+  </script>
+</body>
+</html>
