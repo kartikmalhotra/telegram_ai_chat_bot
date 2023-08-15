@@ -3,8 +3,8 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="350px" weight="350px", width="100%">
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/stripe.png" alt="Image 1" width="45%" height="150px">
-        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" alt="Image 2" width="45%" height="150px">
+        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/stripe.png" alt="Image 1" width="50%" height="200px">
+        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" alt="Image 2" width="50%" height="200px">
     </div>
 
 </p>
