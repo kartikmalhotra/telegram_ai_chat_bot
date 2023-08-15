@@ -1,8 +1,7 @@
 # django-telegram-bot
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="250px" weight="350px">
-    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/stripe.png" align="center" height="250px" weight="350px">
+    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/photo-1690683790356-c1edb75e3df7.jpeg" align="center" height="350px" weight="350px">
     <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" align="center" height="250px" weight="350px">
 
 </p>
