@@ -109,5 +109,8 @@ python manage.py createsuperuser
 After that you can open admin panel of your deployed app which is located at https://<DOMAIN>/tgadmin.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" align="center" height="350px" weight="350px", width="100%">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/stripe.png" alt="Image 1" width="40%" >
+        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" alt="Image 2" width="40%">
+    </div>
 </p>
