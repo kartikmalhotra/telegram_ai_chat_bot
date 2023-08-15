@@ -110,7 +110,7 @@ After that you can open admin panel of your deployed app which is located at htt
 
 <p align="center">
     <div style="display: flex; justify-content: space-between; align-items: center;">
-        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/stripe.png" alt="Image 1" width="40%" >
-        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" alt="Image 2" width="40%">
+        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/stripe.png" alt="Image 1" width="50%" >
+        <img src="https://raw.githubusercontent.com/kartikmalhotra/telegram_ai_chat_bot/master/docs/telegram_image.png" alt="Image 2" width="30%">
     </div>
 </p>
